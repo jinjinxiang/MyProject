@@ -6,6 +6,7 @@ public class Tuser {
     private String password;
     private String username;
     private int roleId;
+//    <!-- 我是寄居蟹 --!>
     private int aaaa;
 
     public Tuser() {
