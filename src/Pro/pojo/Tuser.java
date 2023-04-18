@@ -6,6 +6,7 @@ public class Tuser {
     private String password;
     private String username;
     private int roleId;
+    private int aaaa;
 
     public Tuser() {
     }
